@@ -1,1 +1,14 @@
-{}
+{
+  "0": "<li><a class = \"page\" href=\"7\"> Adventure I. Silver Blaze </a> <span class=\"flex\">7</span> </li>",
+  "1": "<li><a class = \"page\" href=\"84\"> Adventure II. The Yellow Face </a> <span class=\"flex\">84</span> </li>",
+  "2": "<li><a class = \"page\" href=\"143\"> Adventure III. The Stock-Broker&rsquo;s Clerk </a> <span class=\"flex\">143</span> </li>",
+  "3": "<li><a class = \"page\" href=\"201\"> Adventure IV. The &ldquo;Gloria Scott&rdquo; </a> <span class=\"flex\">201</span> </li>",
+  "4": "<li><a class = \"page\" href=\"264\"> Adventure V. The Musgrave Ritual </a> <span class=\"flex\">264</span> </li>",
+  "5": "<li><a class = \"page\" href=\"323\"> Adventure VI. The Reigate Puzzle </a> <span class=\"flex\">323</span> </li>",
+  "6": "<li><a class = \"page\" href=\"382\"> Adventure VII. The Crooked Man </a> <span class=\"flex\">382</span> </li>",
+  "7": "<li><a class = \"page\" href=\"437\"> Adventure VIII. The Resident Patient </a> <span class=\"flex\">437</span> </li>",
+  "8": "<li><a class = \"page\" href=\"497\"> Adventure IX. The Greek Interpreter </a> <span class=\"flex\">497</span> </li>",
+  "9": "<li><a class = \"page\" href=\"555\"> Adventure X. The Naval Treaty </a> <span class=\"flex\">555</span> </li>",
+  "10": "<li><a class = \"page\" href=\"664\"> Adventure XI. The Final Problem </a> <span class=\"flex\">664</span> </li>",
+  "11": "<li><a class = \"page\" href=\"720\">  The End </a> <span class=\"flex\">720</span> </li>"
+}
